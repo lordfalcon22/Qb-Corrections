@@ -1,5 +1,4 @@
-Qb-Corrections
- ** NOT FINISHED **
+**NOT FINISHED**
  
  
  
@@ -13,19 +12,21 @@ Qb-Corrections
  
 
 
-** This Script is basically qb-policejob but changed in a way to suit the prison job **
+**This Script is basically qb-policejob but changed in a way to suit the prison job**
 
 
 
 Dependencies:
-
+```
 ox_lib
 qbcore
 qb-target
 qb-inventory or lj-inventory
- 
+```
  
  Credits
- 
+ ```
  Qbcore
+ qb-policejob
  Qbox
+```

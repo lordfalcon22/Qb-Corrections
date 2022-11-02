@@ -1,5 +1,5 @@
-# Qb-Corrections
- *** NOT FINISHED ***
+Qb-Corrections
+ ** NOT FINISHED **
  
  
  
@@ -11,7 +11,18 @@
  
  It has all the basics and may add more stuff in the future.
  
- 
+
+
+** This Script is basically qb-policejob but changed in a way to suit the prison job **
+
+
+
+Dependencies:
+
+ox_lib
+qbcore
+qb-target
+qb-inventory or lj-inventory
  
  
  Credits
